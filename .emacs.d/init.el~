@@ -28,9 +28,9 @@
 (setq suggest-key-bindings t)
 (setq vc-follow-symlinks t)
 
-; custom changs
+;; custom changes
 (global-hl-line-mode 1)
-;
+;;
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.

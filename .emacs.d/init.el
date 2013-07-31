@@ -30,6 +30,8 @@
 
 ;; custom changes
 (global-hl-line-mode 1)
+(setq inhibit-startup-message t)
+(fset `yes-or-no-p `y-or-n-p)
 ;;
 
 (custom-set-faces
